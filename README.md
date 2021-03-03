@@ -1,2 +1,3 @@
 # revenue-management-pricing
-Cass Business School - Module Projects and Notes
+**Cass Business School - SMM641 Revenue Management & Pricing**
+Module Projects and Notes
